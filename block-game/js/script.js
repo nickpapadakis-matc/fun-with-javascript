@@ -126,6 +126,7 @@
     getEl('win').style.visibility = 'visible';
   }
 
+
   var chngColor = function(selector, id) {
 
     switch (id) {
